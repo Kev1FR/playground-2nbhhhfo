@@ -1,6 +1,6 @@
-# Bienvenue !
+# Les listes, tuples, dictionnaires et ensembles
 
-This Python template lets you get started quickly with a simple one-page playground.
+Si vous êtes débutant ou élève en NSI au lycée, ce playground est fait pour vous. Vous allez découvrir les différentes structures de données à savoir : les listes, les dictionnaires, les tuples et les ensembles.
 
 ```python runnable
 print('Hello World!')
