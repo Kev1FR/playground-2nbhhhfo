@@ -1,9 +1,6 @@
-# Présentation
+# Les listes (1)
 
-Si vous êtes débutant ou élève en NSI au lycée, ce playground est fait pour vous. Vous allez découvrir les différentes structures de données à savoir : les listes, les dictionnaires, les tuples et les ensembles.
-
-Pour effectuer ce cours, il est essentiel d'avoir un minimum de connaissances en Python.
-
+Une liste est une structure de données qui contient une série de valeurs séparées par des virgules et encadrées par des crochets. 
 ## Sommaire :
 - Les listes
 - Les dictionnaires
