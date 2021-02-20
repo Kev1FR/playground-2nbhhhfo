@@ -2,5 +2,5 @@ title: Les listes, tuples, dictionnaires et ensembles
 plan:
 - title: Introduction
   statement: introduction.md
-- title: Les listes
+- title: Les listes (1)
   statement: liste1.md
