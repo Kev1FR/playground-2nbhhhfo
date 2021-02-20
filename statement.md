@@ -11,4 +11,4 @@ Pour effectuer ce cours, il est essentiel d'avoir un minimum de connaissances en
 - Les ensembles
 
 
-Bon cours !
+<center>Bon cours !</center>
