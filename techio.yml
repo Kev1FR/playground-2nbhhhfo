@@ -1,4 +1,7 @@
 title: Les listes, tuples, dictionnaires et ensembles
 plan:
-- title: Python Snippet
-  statement: statement.md
+- title: Introduction
+  statement: page1.md
+  
+- title: Les listes
+  statement: page2.md
